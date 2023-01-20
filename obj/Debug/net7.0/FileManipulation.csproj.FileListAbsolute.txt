@@ -1,0 +1,15 @@
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\bin\Debug\net7.0\FileManipulation.exe
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\bin\Debug\net7.0\FileManipulation.deps.json
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\bin\Debug\net7.0\FileManipulation.runtimeconfig.json
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\bin\Debug\net7.0\FileManipulation.dll
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\bin\Debug\net7.0\FileManipulation.pdb
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\obj\Debug\net7.0\FileManipulation.csproj.AssemblyReference.cache
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\obj\Debug\net7.0\FileManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\obj\Debug\net7.0\FileManipulation.AssemblyInfoInputs.cache
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\obj\Debug\net7.0\FileManipulation.AssemblyInfo.cs
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\obj\Debug\net7.0\FileManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\obj\Debug\net7.0\FileManipulation.dll
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\obj\Debug\net7.0\refint\FileManipulation.dll
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\obj\Debug\net7.0\FileManipulation.pdb
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\obj\Debug\net7.0\FileManipulation.genruntimeconfig.cache
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\FileManipulation\obj\Debug\net7.0\ref\FileManipulation.dll
